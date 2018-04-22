@@ -77,3 +77,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.vs/Sorts/v15/.suo
+*.db
+*.opendb
+.vs/Sorts/v15/ipch/AutoPCH/931de841bac2c7c0/SOURCE.ipch
+*.log
+Sorts/x64/Debug/Sorts.tlog/CL.command.1.tlog
+*.tlog
+Sorts/x64/Debug/vc141.idb
+*.pdb
+x64/Debug/Sorts.ilk

@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	Sorts<int> a = Sorts<int>(100, false);
+	Sorts<int> a = Sorts<int>(1000, false);
 	a.display();
 	DWORD start = GetTickCount();
 	a.mergeSort();
