@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\student235734\source\repos\sorts\sorts\sorts.h(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\student235734\source\repos\sorts\sorts\sorts.h(17): note: while compiling class template member function 'Sorts<int>::Sorts(int,bool)'
+  c:\users\student235734\source\repos\sorts\sorts\source.cpp(11): note: see reference to function template instantiation 'Sorts<int>::Sorts(int,bool)' being compiled
+  c:\users\student235734\source\repos\sorts\sorts\source.cpp(11): note: see reference to class template instantiation 'Sorts<int>' being compiled
+  Sorts.vcxproj -> C:\Users\Student235734\source\repos\Sorts\Debug\Sorts.exe
